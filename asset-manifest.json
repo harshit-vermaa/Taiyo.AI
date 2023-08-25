@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Taiyo.AI/static/css/main.6b5e1ede.css",
+    "main.js": "/Taiyo.AI/static/js/main.a836efc1.js",
+    "index.html": "/Taiyo.AI/index.html",
+    "main.6b5e1ede.css.map": "/Taiyo.AI/static/css/main.6b5e1ede.css.map",
+    "main.a836efc1.js.map": "/Taiyo.AI/static/js/main.a836efc1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b5e1ede.css",
+    "static/js/main.a836efc1.js"
+  ]
+}
