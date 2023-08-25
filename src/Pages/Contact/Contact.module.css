@@ -1,0 +1,47 @@
+.contact {
+    height: 100%;
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+}
+.contactBox {
+    border-bottom: 1px solid black;
+    padding: 40px 0px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+}
+.contactBox_input {
+    display: flex;
+    gap: 20px;
+}
+.contactActive {
+    padding: 50px 20px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+}
+.contactActive_card {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    height: 180px;
+    width: 280px;
+    padding: 20px;
+    justify-content: space-around;
+    background-color: rgb(203, 241, 253);
+    border-radius: 10px;
+}
+.contactActive_cardFeilds {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.contactActive_cardBtn {
+    display: flex;
+    gap: 15px;
+}
+.contactActive_cardBtn button {
+    width: 100px;
+}
